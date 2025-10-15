@@ -38,7 +38,7 @@ I’m currently improving my skills in:
 ---
 
 ## 📫 Connect With Me
-- **Email:** moffatmuriuki@example.com  
+- **Email:** muriukimoffat40@gmail.com  
 - **GitHub:** [github.com/moffatmuriuki](https://github.com/moffatmuriuki)  
 - **LinkedIn:** *https://www.linkedin.com/in/moffatt-moffat-657498335?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app*  
 
